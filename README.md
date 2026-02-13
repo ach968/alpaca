@@ -1,4 +1,4 @@
-# Alpaca
+# alpine
 
 High-performance compression for sequential numeric data in Go. Purpose-built for time-series, database keys, and IoT metrics.
 
